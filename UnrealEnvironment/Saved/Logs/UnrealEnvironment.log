@@ -1506,3 +1506,5 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.06.10-10.39.00:195][668]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2022.06.10-10.39.00:378][668]LogD3D11RHI: Shutdown
 [2022.06.10-10.39.00:378][668]LogD3D11RHI: CleanupD3DDevice
+[2022.06.10-10.39.01:263][668]LogExit: Exiting.
+[2022.06.10-10.39.01:314][668]Log file closed, 06/10/22 11:39:01
